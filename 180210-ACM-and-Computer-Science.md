@@ -1,4 +1,4 @@
-# About ACM and Computer Science
+# ACM and Computer Science
 
 ---- By Wally Yang
 
