@@ -1,4 +1,4 @@
-Overview of Activities in 2018
+Overview of Events
 ===
 
 ACM-ICPC Contests
