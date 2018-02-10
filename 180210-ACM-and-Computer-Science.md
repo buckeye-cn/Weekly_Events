@@ -1,4 +1,4 @@
-# ACM and Computer Science
+# About ACM and Computer Science
 
 ---- By Wally Yang
 
@@ -15,6 +15,9 @@
   * Computer Science vs. Programming
   * What does Computer Science mean to you?
   * How to succeed in Computer Science
+      * Why Computer Science is hard (at the first)?
+      * Abstraction
+      * Just keep coding
 
 ## ACM ICPC - ACM International Collegiate Programming Contest
   * An annual multi-tiered competitive programming competition among the universities of world.
@@ -28,3 +31,9 @@
       * running time
   * Language: C/C++, Java, Python (2 & 3), Kotlin
   * Team: 1 - 3 students
+
+## About Us
+  * Who are we
+  * Why have this club?
+  * Pure Coding
+  * Talk is cheap. Show me the code
