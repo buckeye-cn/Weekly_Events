@@ -11,14 +11,6 @@
   * Conferences, specialized journals, magazines, and newsletters
   * ACM ICPC and other events
 
-## Computer Science
-  * Computer Science vs. Programming
-  * What does Computer Science mean to you?
-  * How to succeed in Computer Science
-      * Why Computer Science is hard (at the first)?
-      * Abstraction
-      * Just keep coding
-
 ## ACM ICPC - ACM International Collegiate Programming Contest
   * An annual multi-tiered competitive programming competition among the universities of world.
       * Different autonomous region
@@ -37,3 +29,12 @@
   * Why have this club?
   * Pure Coding
   * Talk is cheap. Show me the code
+
+## Computer Science
+  * Computer Science vs. Programming
+  * What does Computer Science mean to you?
+  * How to succeed in Computer Science
+      * Why Computer Science is hard (at the first)?
+      * Abstraction
+      * Just keep coding
+
