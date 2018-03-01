@@ -1,3 +1,9 @@
+Notice: Moved Permanently
+===
+
+Here: [OSUACM/Weekly_Events](https://github.com/OSUACM/Weekly_Events)
+
+
 Weekly Events
 ===
 
